@@ -14,7 +14,7 @@ This is a simple weather application built using HTML, CSS, JavaScript, and Node
 1. **Clone the Repository**: Begin by cloning the repository to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/weather-application.git
+    git clone https://github.com/CharudattaGhute/weather-application.git
     ```
 
 2. **Navigate to Project Directory**: Move into the project directory:
