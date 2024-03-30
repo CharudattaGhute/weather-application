@@ -20,7 +20,7 @@ This is a simple weather application built using HTML, CSS, JavaScript, and Node
 2. **Navigate to Project Directory**: Move into the project directory:
 
     ```bash
-    cd weather-application
+    cd projectone
     ```
 
 3. **Initialize the Project**: Initialize the project and create the `package.json` file:
