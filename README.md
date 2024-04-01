@@ -43,7 +43,15 @@ This is a simple weather application built using HTML, CSS, JavaScript, and Node
     node server.js
     ```
 
-7. **View Application**: Open your preferred web browser and visit `http://localhost:9001` to access the application.
+7. **View Application**:
+- Open your preferred web browser and visit `http://localhost:9001` to access the application.
+
+# Demo Video
+
+
+https://github.com/CharudattaGhute/weather-application/assets/122104600/0ba55806-a9fc-46c9-88a2-0071f5b42e6e
+
+
 
 ## Usage
 
