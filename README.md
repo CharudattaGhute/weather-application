@@ -1,6 +1,6 @@
 # Weather Application
 
-This is a simple weather application built using HTML, CSS, JavaScript, and Node.js. It fetches weather data from the OpenWeather API and displays related images for different weather conditions
+This is a simple weather application built using HTML, CSS, JavaScript, and Node.js. It fetches weather data from the OpenWeather API and displays related images for different weather conditions.
 
 ## Features
 
